@@ -1,2 +1,1 @@
-This is the readme for Holberton zero day tasks
-# holbertonschool-zero_day
+this is the README file to git task
